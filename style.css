@@ -1,0 +1,28 @@
+header
+{
+    background-color: rgb(159, 202, 235);
+    color: rgb(249, 252, 254);
+    font-size: xx-large;
+    border-radius: 10px;
+}
+button
+{
+    colour: purple;
+    background-color: bisque;
+    border-radius: 10px;
+    border: 2;
+}
+a1
+{
+    height: 50px;
+    font-size: xx-large;
+    background-color:pink;
+    color: white;
+    border-radius: 10px;
+}
+p1
+{
+    font-size: xx-large;
+    color: white;
+    border-radius: 10px;
+}
